@@ -1,0 +1,18 @@
+bibliotecas instaladas
+
+init
+express
+sequelize
+mysql2
+ejs
+nodemon
+
+/*******************Banco de dados*********************/
+
+
+Nome do banco de dados: guiapress
+Programa usado: mysql Workbench
+
+/*******************Static*********************/
+
+Carrega arquivo de imagem ou arquivo css
